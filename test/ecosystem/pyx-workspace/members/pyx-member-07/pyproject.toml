@@ -41,7 +41,7 @@ dependencies = [
 modal = [
     "modal==1.4.1",
     "pip==26.1",
-    "setuptools==82.0.1",
+    "setuptools==84.1.0",
 ]
 
 [dependency-groups]
